@@ -60,6 +60,6 @@ dados, modelos e produto. Gosto de transformar problema de negócio em pipeline 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/fabriciodf)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:SEU_EMAIL_REAL)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:fabriciodf@hotmail.com)
 
 </div>
