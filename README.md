@@ -40,19 +40,19 @@ dados, modelos e produto. Gosto de transformar problema de negócio em pipeline 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=c9d1d9&border_color=30363D&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&border_color=30363D&langs_count=8" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FabricioBraganca&show_icons=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=c9d1d9&border_color=30363D&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioBraganca&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&border_color=30363D&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&background=0D1117&border=30363D&stroke=00F0FF&ring=A855F7&fire=A855F7&currStreakLabel=00F0FF&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=FabricioBraganca&background=0D1117&border=30363D&stroke=00F0FF&ring=A855F7&fire=A855F7&currStreakLabel=00F0FF&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/FabricioBraganca/FabricioBraganca/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -60,6 +60,6 @@ dados, modelos e produto. Gosto de transformar problema de negócio em pipeline 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/fabriciodf)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:fabriciodf@email.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:SEU_EMAIL_REAL)
 
 </div>
